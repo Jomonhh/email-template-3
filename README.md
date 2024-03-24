@@ -1,2 +1,2 @@
-# email-template-3
-<a href="https://jomonhh.github.io/email-template-3/">Click Me</a>
+# email-template
+<a href="https://jomonh.github.io/email-template/">Click Me</a>
